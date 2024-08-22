@@ -1,6 +1,6 @@
 # 🌀 AstridPortals
 
-AstridPortals is a powerful plugin designed to restrict player access to specific portals based on their requirements. By setting up custom configurations, you can ensure that only players who meet certain criteria are allowed to enter designated portals.
+AstridPortals is a custom plugin for the AstridCloud server 🌌. It restricts player access to specific portals based on set requirements. With customizable configurations, you can ensure only players who meet certain criteria can enter designated portals.
 
 ## 🔧 Configuration
 
